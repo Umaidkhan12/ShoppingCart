@@ -44,7 +44,7 @@ A simple shopping cart app built with **Kotlin** and **Firebase Firestore**. Use
 
 ## 🧑‍💻 Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [UMaid Khan](https://github.com/umaidkhan12)
 
 ## 📄 License
 
