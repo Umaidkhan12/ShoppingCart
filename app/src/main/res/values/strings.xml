@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ShoppingCart</string>
+
+    <!-- Product Related -->
+    <string name="product_image">Product Image</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="only_x_left">Only %d left!</string>
+    <string name="in_stock">In Stock</string>
+    <string name="price_format">₹ %.2f</string>
+    <string name="price_unavailable">Price unavailable</string>
+    <string name="unknown_product">Product Not Found!</string>
+    <string name="remove">Remove</string>
+    <string name="total">Total</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+
+    <!--  Login Related  -->
+    <string name="default_display_name">Anonymous User</string>
+    <string name="email_not_available">Email not available</string>
+    <string name="guest_user">Guest User</string>
+    <string name="login_prompt">Sign in to access full features</string>
+    <string name="login_signup">Login / Sign Up</string>
+    <string name="logout_confirmation_title">Logout</string>
+    <string name="logout_confirmation_message">Are you sure you want to logout?</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

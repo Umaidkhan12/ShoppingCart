@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme colors -->
+    <color name="stock_status_background">#3D6A47</color>
+    <color name="errorColor">#CF6679</color>
+    <color name="placeholder_loading">#2B2B2B</color>
+</resources>
