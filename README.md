@@ -22,3 +22,30 @@ A simple shopping cart app built with **Kotlin** and **Firebase Firestore**. Use
 
 ## 🗂️ Project Structure
 
+
+## 🧪 Firebase Setup
+
+1. Go to [Firebase Console](https://console.firebase.google.com/).
+2. Create a project and add your Android app.
+3. Download the `google-services.json` file and place it in your `/app` folder.
+4. Enable **Authentication** (Email/Password).
+5. Create a **Firestore Database** in test mode.
+
+## 🛠️ How to Run
+
+1. Clone this repo
+2. Open in Android Studio
+3. Connect a Firebase project (via Tools > Firebase)
+4. Sync Gradle
+5. Run on emulator/device
+
+## 🔥 Firestore Structure Example
+
+
+## 🧑‍💻 Contributors
+
+- [Your Name](https://github.com/yourusername)
+
+## 📄 License
+
+This project is licensed under the MIT License.
